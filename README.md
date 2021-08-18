@@ -1,5 +1,5 @@
 # Cells_count_tool
-Following a need for image analysis in the context of cells detection, this project was created. 
+Following a need for image analysis in the context of cells detection, this project was created with the Lund University. 
 This script was writted in python 3.8.
 
 The tool count each cells on a .jpg file. It works with a black background on the jpg.
