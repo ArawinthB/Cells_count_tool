@@ -1,4 +1,5 @@
 # Cells_count_tool
+v1.2
 Following a need for image analysis in the context of cells detection, this project was created with the Lund University. 
 This script was writted in python 3.8.
 
